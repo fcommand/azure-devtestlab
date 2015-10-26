@@ -1,1 +1,0 @@
-Install Azure CLI
